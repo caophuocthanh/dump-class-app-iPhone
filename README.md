@@ -5,6 +5,7 @@ Add class clump app date 22/8/2015
 - App Instagram
 - App HipChat
 - App Pinterest
+- App Messenger Facebook
 
 # USE
 - Clutch
